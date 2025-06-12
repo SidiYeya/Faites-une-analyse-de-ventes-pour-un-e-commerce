@@ -66,3 +66,5 @@ PS : Est-ce que tu peux laisser les formules dans le fichier (tu pourras peut-ê
 
 Merci pour tout,
 Pauline
+
+### Pour cet projet :
