@@ -5,8 +5,8 @@ Cette mission suit un scénario de projet professionnel. Vous pouvez suivre les 
 ### Étape 1 :
 Aujourd’hui, comme tous les débuts de mois, vous avez prévu de travailler sur le rapport mensuel des actions marketing de votre équipe. 
 Pour cela, il vous faudra : 
-préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédéric ci-dessous) ;
-préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Pauline ci-dessous).
+- préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédéric ci-dessous) ;
+- préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Pauline ci-dessous).
 ### Le rapport mensuel
 Aujourd’hui, vous avez prévu de travailler sur le rapport mensuel des actions marketing de votre équipe.
  
@@ -20,16 +20,16 @@ Puisque tu travailles actuellement sur le rapport mensuel, pourras-tu expliquer 
 
 Durant cette présentation, tu devras utiliser les différents graphiques mensuels pour présenter les points suivants :
 
-La proportion des ventes par catégorie de produit 
-Le montant des achats des clients (montant du panier) 
-Les évolutions : 
-du chiffre d'affaires ;
-du nombre d'achats des clients ;
-du ratio (nombre d’achats des clients)/(nombre de visites) au cours du temps ;
-du nombre de visites sur le site web au cours du temps ; 
-de la variabilité du temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat).
-Le temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat) 
-L’évolution du chiffre d’affaires dans les prochains mois.
+- La proportion des ventes par catégorie de produit 
+- Le montant des achats des clients (montant du panier) 
+- Les évolutions : 
+   - du chiffre d'affaires ;
+   - du nombre d'achats des clients ;
+   - du ratio (nombre d’achats des clients)/(nombre de visites) au cours du temps ;
+   - du nombre de visites sur le site web au cours du temps ; 
+   - de la variabilité du temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat).
+   - Le temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat) 
+   - L’évolution du chiffre d’affaires dans les prochains mois.
  
 Pour rappel, nous avons changé de stratégie l’année dernière en arrêtant le segment High tech pour nous consacrer à la nourriture et aux biens de consommation. 
 
